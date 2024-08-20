@@ -1,0 +1,41 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: #af82f2;
+}
+div{
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  margin: 30px;
+}
+.imagen img{
+  height: 300px;
+}
+.titulo h1{
+  color: white;
+  font-size: 50px; 
+  text-align: center;
+  font-family: "Forte";
+}
+.enlace p{
+  font-size: 20px; 
+  text-align: center;
+  font-family: "Forte";
+}
+.subtitulo p{
+  color: white;
+  font-size: 40px; 
+  text-align: left;
+  font-family: "Forte";
+}
+.descripcion p{
+  color: white;
+  font-size: 20px; 
+  font-family: "Forte";
+}
+.descripcion img{
+  height: 300px;
+}
